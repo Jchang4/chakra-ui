@@ -1,6 +1,3 @@
-  </a>
-</p>
-
 <h1 align="center">Build Accessible React Apps with Speed ⚡️</h1>
 <br />
 
