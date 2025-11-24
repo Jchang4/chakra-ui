@@ -1,5 +1,3 @@
-  <a href="https://github.com/chakra-ui/chakra-ui">
-    <img alt="Github Stars" src="https://badgen.net/github/stars/chakra-ui/chakra-ui" />
   </a>
   <a href="https://discord.gg/chakra-ui">
     <img alt="Discord" src="https://img.shields.io/discord/660863154703695893.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" />
