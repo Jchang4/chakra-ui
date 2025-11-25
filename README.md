@@ -1,6 +1,3 @@
-  </a>
-</p>
-
 <br />
 
 Chakra UI is a component system for building products with speed. Accessible
